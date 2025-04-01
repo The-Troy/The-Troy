@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm Roy Warungu, a Software Engineer 👨‍💻 with a great interest in Back End Development.
+🔭 I’m currently working on My Portfolio
 
-<!--
-**The-Troy/The-Troy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Web3 and K8s
 
-Here are some ideas to get you started:
+❓ Ask me about anything related to Python stack and related technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact:
+
+
+My Skill Set
+Frontend
+React CSS3 HTML5 JavaScript Illustrator Tailwind CSS Figma Angular Adobe XD Material UI Flask
+Backend
+MongoDB Node.js Linux Nginx Python Git Bash Redis C Kubernetes
+DevOps
+Kubernetes Linux Git Bash Docker 
